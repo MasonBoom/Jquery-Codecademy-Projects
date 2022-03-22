@@ -18,7 +18,7 @@ This repository contains all of the projects I have completed for Codecademy's c
 
 The puropse of this project is to allow the student to practice using jQuery to make a drop-down menus appear/disappear using the click and mouseleave event handlers. This challenge can be found under "Learn jQuery: Introduction"
 
-!(madison-square-market)[]
+!(madison-square-market)[https://github.com/MasonBoom/Jquery-Codecademy-Projects/blob/beddae4fcb4efb8de4e5af4546728a5a0b27ec5a/Images/index.html%20-%20Google%20Chrome%203_21_2022%208_07_16%20PM.png]
 
 #### Trivia Card
 
