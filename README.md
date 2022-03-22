@@ -3,6 +3,7 @@
 This repository contains all of the projects I have completed for Codecademy's course "Learn jQuery". The purpose of doing these projects is to get some practice using jQuery to refine my knowledge. All of the images shown in this readMe file are completed versions of each project and include descriptions of the project's tasks.
 
 [link to codecademy's jQuery course](https://www.codecademy.com/learn/learn-jquery)
+
 *In order to gain access to this course, you must pay for codecademy's pro subscription.
 
 ## Technologies Used
