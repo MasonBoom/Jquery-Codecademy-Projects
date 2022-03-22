@@ -32,16 +32,16 @@ This project allows students to practice with more event listeners and jQuery ef
 
 The goal of this project is to add dynamic behavior to feedster's website. The student has to limit user posts to 140 characters or less. The student is also tasked with using addClass and removeClass if certain conditions are met. This challenge can be found under "Learn jQuery: Event Handlers"
 
-![feedster]()
+![feedster](https://github.com/MasonBoom/Jquery-Codecademy-Projects/blob/dad1c20f19778b92df590b76b8773d60299d5797/Images/feedster%20-%20Google%20Chrome%203_21_2022%208_10_17%20PM.png)
 
 #### Web Safe Font Preview
 
 In this project, the student has to build a simple app to preview different web safe fonts, sizes, and weights using jQuery. The student would practice more with event handlers and use event handlers to change css styles on certain elements of the page. This challenge can be found under "Learn jQuery: Style Methods"
 
-![web-safe-font-preview]()
+![web-safe-font-preview](https://github.com/MasonBoom/Jquery-Codecademy-Projects/blob/dad1c20f19778b92df590b76b8773d60299d5797/Images/Typo%20_%20Test-drive%20your%20text%20-%20Google%20Chrome%203_21_2022%208_12_20%20PM.png)
 
 #### Gameboard
 
 In this project, they want the user to be able to click the More link to see the dropdown menu, to click the Share link to see the share menu, and to click the notification bell. This challenge can be found under "Learn jQuery: Traversing the DOM"
 
-![gameboard]()
+![gameboard](https://github.com/MasonBoom/Jquery-Codecademy-Projects/blob/dad1c20f19778b92df590b76b8773d60299d5797/Images/index.html%23%20-%20Google%20Chrome%203_21_2022%208_12_49%20PM.png)
